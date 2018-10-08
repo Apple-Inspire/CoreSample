@@ -1,0 +1,2 @@
+# CoreSample
+Core Data Example
